@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<note>
-  <to>yamini</to>
-  <from>Janani</from>
-  <heading>Reminder</heading>
-   <body>Don't forget me this weekend!</body>
-</note>
+<fruits_menu>
+<fruits>
+    <name>apple</name>
+    <price>$5.95</price>
+    <description>
+   Two apple offer today
+   </description>
+    <calories>650</calories>
+</fruits>
+<fruits>
+    <name>Strawberry</name>
+    <price>$7.95</price>
+    <description>
+    strawberry is available in low price
+    </description>
+    <calories>900</calories>
+</fruits>
+<fruits>
+    <name>mango</name>
+    <price>$8.95</price>
+    <description>
+    raw fresh mango is available
+    </description>
+    <calories>900</calories>
+</fruits>
+<fruits>
+    <name>orange</name>
+    <price>$4.50</price>
+    <description>
+    fresh oranges is available in low price
+    </description>
+    <calories>600</calories>
+</fruits>
+<fruits>
+    <name>grapes</name>
+    <price>$6.95</price>
+    <description>
+    all types of grapes is available
+    </description>
+    <calories>950</calories>
+</fruits>
+</fruits_menu>
